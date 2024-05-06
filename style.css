@@ -1,11 +1,12 @@
 body {font-family: sans-serif}
 
 .header {
-  background-color: #00aaff8c;
-  padding: 20px;
+  background-color: #ff3c00;
   text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
   font-size: auto;
   color: rgb(0, 0, 0);
-  max-width: 75%;
+  max-width: 80%;
   margin: auto;
 }

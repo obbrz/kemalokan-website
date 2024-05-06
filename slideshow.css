@@ -1,10 +1,17 @@
 * {box-sizing:border-box}
 
+img {
+  object-fit: cover;
+  width: 100%;
+  height: 400px;
+}
+
 /* Slideshow container */
 .slideshow-container {
-    max-width: 75%;
+    max-width: 80%;
     position: relative;
     margin: auto;
+    max-height: 50%;
   }
   
   /* Hide the images by default */
