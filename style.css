@@ -2,14 +2,14 @@
     position: relative;
     margin: 50px;
     text-align: center;
-    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     background-color: #DC143C
 }
 
 
 * {box-sizing:border-box}
 
-body {font-family: Tahoma, Geneva, Verdana, sans-serif}
+body {font-family: Arial, Helvetica, sans-serif}
 
 /* Slideshow container */
 .slideshow-container {
