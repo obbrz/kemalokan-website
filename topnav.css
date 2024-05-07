@@ -4,6 +4,7 @@
     overflow: hidden;
     margin: auto;
     max-width: 80%;
+    height: auto;
   }
   
   /* Style the links inside the navigation bar */
@@ -14,18 +15,18 @@
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 2.5vmin;
   }
   
   /* Change the color of links on hover */
   .topnav a:hover {
-    background-color: #ddd;
-    color: black;
+    background-color: #ed1b24;
+    color: rgb(255, 255, 255);
   }
   
   /* Add an active class to highlight the current page */
   .topnav a.active {
-    background-color: #04AA6D;
+    background-color: #23b14d;
     color: white;
   }
   
