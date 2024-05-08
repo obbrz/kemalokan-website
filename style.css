@@ -2,9 +2,41 @@ body {font-family: Arial, Helvetica, sans-serif}
 
 .header {
   text-align: center;
-  padding-top: 10px;
-  padding-bottom: 3%;
-  font-size: 2vw;
-  max-width: 80%;
+  padding-top: 15px;
+  padding-bottom: 5%;
+  font-size: min(2vw, 24px);
+  max-width: min(80%, 1024px);
   margin: auto;
+}
+
+#logo {
+  max-width: 20%;
+  height: auto;
+  float: left;
+  margin-left: 10px;
+}
+
+.partext {
+  max-width: min(65%, 1024px);
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  text-align: justify;
+  font-size: 1em;
+}
+
+.bottombar {
+  background-color: #555;
+  margin: auto;
+  height: auto;
+  max-width: min(90%, 1024px);
+}
+
+.bottombar p{
+  float: center;
+  color: #f2f2f2;
+  text-align: center;
+  font-size: 2.5vh;
+  padding-top: 1%;
+  padding-bottom: 1%
 }

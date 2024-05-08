@@ -8,10 +8,10 @@ img {
 
 /* Slideshow container */
 .slideshow-container {
-    max-width: 80%;
+    max-width: min(90%, 1024px);
     position: relative;
     margin: auto;
-    max-height: auto;
+    height: auto;
   }
   
   /* Hide the images by default */
